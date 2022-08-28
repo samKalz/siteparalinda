@@ -1,0 +1,8 @@
+*
+.samar1 {
+    position: absolute;
+    bottom: 0;
+    width: 50px;
+    right: -50px;
+    animation: tubo-animation 2s infinite linear;
+}
